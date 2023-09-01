@@ -10,7 +10,7 @@ Voici un template de bot discord. Le bot a été réalisé en utilisant node.js 
 
 ## 📝 Commande disponible 
 
-/ban
+/ban \n
 /unban
 /mute
 /unmute
