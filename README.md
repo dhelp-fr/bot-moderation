@@ -12,7 +12,7 @@ Voici un template de bot discord. Le bot a été réalisé en utilisant node.js 
 
 /ping
 
-## 📝 [Serveur Support]([https://discord.gg/aC9RF7Kt8T)](https://discord.gg/zr7yJs6nxF)
+## 📝 [Serveur Support]([https://discord.gg/aC9RF7Kt8T])(https://discord.gg/zr7yJs6nxF)
 
 Si vous rencontrez des problèmes avec le bot, rejoignez nous et demander de l'aide.
 
