@@ -13,13 +13,21 @@ Voici un template de bot discord. Le bot a été réalisé en utilisant node.js 
 /ban 
 
 /unban
+
 /mute
+
 /unmute
+
 /kick
+
 /lock
+
 /unlock
+
 /clear message 
+
 /clear channel
+
 
 ## 📝 [Serveur Support](https://discord.gg/zr7yJs6nxF)
 
