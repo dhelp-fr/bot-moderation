@@ -1,5 +1,5 @@
 client:
-  token: MTEyMTU0OTQzOTEwNzA4ODQ4NA.GjeSKe.h-PF7RdeLTC663mGWxVkju7zoMIGfOTE1oeSH8
+  token: votre token ici
   presence:
     enable: true
     status: online
