@@ -7,26 +7,32 @@ Voici un template de bot discord. Le bot a été réalisé en utilisant node.js 
 - [Node.js](https://nodejs.org/en/download/)
 - [discord.js](https://discord.js.org/)
 
+  ## ⚡Lancement
+  - npm i
+  - npm run start
+
 
 ## 📝 Commande disponible 
 
-/ban 
+- ping
 
-/unban
+- /ban 
 
-/mute
+- /unban
 
-/unmute
+- /mute
 
-/kick
+- /unmute
 
-/lock
+- /kick
 
-/unlock
+- /lock
 
-/clear message 
+- /unlock
 
-/clear channel
+- /clear message 
+
+- /clear channel
 
 
 ## 📝 [Serveur Support](https://discord.gg/zr7yJs6nxF)
