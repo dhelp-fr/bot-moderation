@@ -10,7 +10,6 @@ Voici un template de bot discord. Le bot a été réalisé en utilisant node.js 
 ## ⚡Lancement
   
 - npm i
-- npm i discord.js
 - npm run start
 
 
