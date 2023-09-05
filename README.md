@@ -7,7 +7,7 @@ Voici un template de bot discord. Le bot a été réalisé en utilisant node.js 
 - [Node.js](https://nodejs.org/en/download/)
 - [discord.js](https://discord.js.org/)
 
-  ## ⚡Lancement
+## ⚡Lancement
   
 - npm i
 - npm i discord.js
