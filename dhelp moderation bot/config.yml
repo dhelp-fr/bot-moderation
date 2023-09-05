@@ -1,0 +1,11 @@
+client:
+  token: MTEyMTU0OTQzOTEwNzA4ODQ4NA.GjeSKe.h-PF7RdeLTC663mGWxVkju7zoMIGfOTE1oeSH8
+  presence:
+    enable: true
+    status: online
+    activity:
+      - name: dhelp.fr
+        type: 4
+developer:
+  version: opérationnelle 
+  lastUpdate: 05/09/23
